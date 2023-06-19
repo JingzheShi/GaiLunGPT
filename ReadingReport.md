@@ -10,7 +10,7 @@
 
 对于这一类，建议先在网络上找到这一文章，使用gpt4的web browsing功能，同时用这样的prompt要求gpt概括：
 
-<img src="E:\gailungpt\GaiLunGPT\Images\ReadingReport01.png" style="zoom:40%;" />
+<img src="Images\ReadingReport01.png" style="zoom:40%;" />
 
 Prompt：
 
@@ -29,7 +29,7 @@ Prompt：
 
 对于这一类，因为网上的网站少有一页里能写完全部内容的，所以用gpt4的web browsing功能很难让gpt阅读全部的材料；而如果使用Plugins中的WebPilot插件，因为该插件限制了返回字数仅有约4000字（超出长度者会被截断），因此也没有办法通过一个现成的链接让gpt获得全部内容。对于这一方式，我们可以：**将材料分段成几个txt文件，将这些文件分别上传至google drive等网盘，然后将这些文件的分享链接传给gpt4的WebPilot插件**。
 
-<img src="E:\gailungpt\GaiLunGPT\Images\ReadingReport02.png" alt="image-20230619212947377" style="zoom:30%;" />
+<img src="Images\ReadingReport02.png" alt="image-20230619212947377" style="zoom:30%;" />
 
 Prompt：
 
